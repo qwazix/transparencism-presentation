@@ -1,0 +1,257 @@
+Introduction
+	Title
+	Design
+	Open Source
+	Not only that.
+
+Part 1
+	Design is politics
+	What does today's design represent
+	Fun stupid question (optional)
+
+Part 2
+	The state today
+	How did this happen
+	why is it worth changing
+
+how to fix it:
+	Educating, not intimidating nor patronizing
+	Little things
+	Show how things work
+	non-software
+
+Conclusion
+
+
+
+--------------------------------------------------------
+0
+
+
+
+
+
+
+
+
+
+
+The case against just works or how to avoid #idiocracy
+
+also what does design have to do with fake news and fearmongering
+
+
+
+
+
+
+
+
+--------------------------------------------------------
+1
+
+
+
+
+
+
+
+Design
+
+Design is the creation of a plan or convention for the construction of an object, system or measurable human interaction (wikipedia)
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------
+2
+
+
+
+
+
+
+Open Source
+
+The term "open source" refers to something people can modify and share because its design is publicly accessible. (opensource.com)
+
+[
+    The freedom to run the program as you wish, for any purpose (freedom 0).
+    The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1).
+    The freedom to redistribute copies so you can help your neighbor (freedom 2).
+    The freedom to distribute copies of your modified versions to others (freedom 3).
+]
+
+
+[ Are you really free? How many times did the onboarding complexity take away your freedoms. In my case, many. I only imagine that if I was not a coder Open Source would mean nothing to me. ]
+
+
+
+
+-----------------------------------------
+3
+
+
+
+
+
+Thus Open Source Design is the design whose design is publicly accessible.
+
+[Which is noble by itself as most designs are not opensource]
+
+But what if it's not only that?
+
+[I believe that open source design is also the design that helps you exercise the above 4 freedoms]
+
+
+
+
+
+-----------------------------------------
+4
+
+Design is politics
+
+take for example ...
+
+Through the 1920s the Constructivists developed radical new architecture, graphic design, film and photography, and pioneered design styles for the new mass production techniques that were helping turn Russia from an agricultural society to an industrial one.
+
+adolf loos
+
+
+(as is free software)
+
+
+-----------------------------------------
+5
+
+
+what does today's design represent?
+
+"Integrated", "It just works", "Automagically", "without even realizing" <-- screenshots
+
+
+
+
+
+-----------------------------------------
+6
+
+
+and then we got this
+
+[stupid tech questions]
+
+
+
+
+-----------------------------------------
+7
+
+
+In the past people didn't know how to use computers because they never touched one.
+As we grew up and adoption increased I believed literacy would increase. It didn't. [raspberry pi]
+Now everybody has one and people are clueless of how they work.
+
+
+[The same has happened with cars. You could open the bonnet of a car and peek at the engine, do minimal repairs yourself. Now you open the car and you see this]
+
+
+
+-----------------------------------------
+8
+
+
+Why did this happen?
+
+Steve Jobs.
+
+Influence in free software world.
+
+
+-----------------------------------------
+9
+
+
+What's the result?
+
+
+search: Facebook
+
+associating security with a lock 🔒: prone to fishing
+
+believe anything is possible: backdoor to the good guys
+fake news and fearmongering: hackers have...
+
+
+
+
+
+-----------------------------------------
+10
+
+
+Transparent doesn't have to mean "hard" or "intimidating". A terminal is intimidating, AutoCAD isn't. Anybody that wants to learn can see the command line and learn. Having the shortcut keys in tooltips is one other method.
+
+
+
+
+------------------------------------------
+11
+
+it's the little things. Saving things and managing files is easy, but if you remove it people think that their data live "in the cloud". Google removed the SD card because it was "confusing"
+
+We can fix that. We can be transparent. Show people where we are saving things, direct them.
+
+Show descriptive errors instead of "Something went wrong" and opaque troubleshooters show a list of things to check, teach them the process of elimination.
+
+
+
+-----------------------------------------
+12
+
+Other nice ideas would be "Have you ever wondered how this works?" and show you a piece of code behind an html element. Or slow motion loading.
+
+Stop replacing jargon with "rounder" words. It's confusing to those who know, it's different in every brand and it makes getting help harder.
+
+it's 4:4:4 color folks, not UHD color nor HDMI Deep Colour. If you want to help clear the air a helpful subtitle could be [This allows deeper color if your HDMI source supports it. Doesn't make a difference if you are using a DisplayPort cable]
+
+
+
+
+-----------------------------------------
+13
+
+In areas other than software, we can
+
+
+1. Make self-repairing easy: Include a repair manual.
+2. Don't use glue. Make modularity a design choice. Stop cherishing smoothness and newness
+3. Wabi-Sabi: embrace wear, history. Emotional design. ()
+4. Removable stuff, replaceable stuff. Use of standard equipment.
+5. 3D printers vs printers. Repairable vs disposable. Combine with principles of sustainable design.
+
+
+This
+
+
+
+
+
+
+
+
+
+-----------------------------------------
+14
+
+Let's make open source design a movement beyond the practical processes of designing in the open and for open [things], but one that actively assists our users to exercise the freedoms open source [things] give to them.
+
+
+I don't have all the solutions. It's up to the community to start this discussion and define new design patterns that work towards educating our users not making them dumber.

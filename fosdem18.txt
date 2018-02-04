@@ -1,0 +1,59 @@
+Design:
+
+definition
+
+
+Open Source:
+
+4 freedoms
+
+
+Both Design and Open Source are political
+
+
+Design always was: 
+modernist -> adolf loos
+bauhaus -> ....
+baroque -> ....
+classical -> ....
+
+symbolism
+
+
+2017 and tech. influence: steve jobs
+
+examples: 
+gnome 
+geary
+
+
+elevator
+cracks
+
+WHy not?
+people are getting stupid: most can't distinguish search from url anymore -> security
+
+frustration, blames the software
+patronizing, we searched but...
+data control diminishes -> apps store anywhere, not owning your device becomes acceptable. The word cloud is enough and nobody asks because everything is magic
+politics: when everything is magic there is disregard for the scientifically sound and possible leading to fake news and preposterous proposals from politicians such as backdoors.
+fearmongering: Hackers can..
+.
+
+Solutions
+
+slow motion web loading
+"have you ever wondered what is happening when you click go?"
+let's try to find what's happening instead of opaque troubleshooters than never work.
+ppek behind (view source, 3D visualization ff)
+autocad, show the command being executed
+
+help the user help himself
+help the user get help
+teach him how things work
+gain contributors
+
+
+vision:
+merge documentation and manual
+make scripting less scary not less difficult. Why is nobody afraid of Excel?
